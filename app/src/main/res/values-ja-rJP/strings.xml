@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BW　リファくと 2022</string>
+    <string name="title_activity_prefs">プレフアクティビティ</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">メッセージ</string>
+    <string name="sync_header">シンク</string>
+
+    <string name="music_pref">BGMを流しますか</string>
+    <string name="music_summaryoff">流さない</string>
+    <string name="music_summaryon">流す</string>
+
+    <string name="se_pref">エフェクト音声をつけますか</string>
+    <string name="se_summaryoff">いいえ</string>
+    <string name="se_summaryon">はい</string>
+
+    <string name="urf_ms">ラピッド　ミサイル</string>
+    <string name="urf_mson">無限</string>
+    <string name="urf_msoff">一</string>
+
+    <string name="urf_dc">ラピッド　魚雷</string>
+    <string name="urf_dcon">無限</string>
+    <string name="urf_dcoff">一</string>
+
+    <string name="num_sub">潜水艦の数量は？</string>
+    <string name="num_subsummary">潜水艦の数量</string>
+
+    <string name="num_air">飛行機の数量は?</string>
+    <string name="num_airsummary">飛行機の数量</string>
+
+    <string name="sub_speed">潜水艦のスピーど</string>
+    <string name="sub_speedsummary">速さ？</string>
+
+    <string name="air_speed">飛行機のスピード</string>
+    <string name="air_speedsummary">飛行機の速さ？</string>
+
+
+    <!-- Splash Activity -->
+    <string name="sa_title">戦艦ゲーム</string>
+    <string name="sa_message">戦艦ゲームです!楽しんで行ってください</string>
+    <string name="sa_ok">はい</string>
+
+    <!-- Game View -->
+    <string name="gv_score">点数: </string>
+    <string name="gv_time">時間: </string>
+    <string name="gv_gameover">ゲームオーバー!</string>
+    <string name="gv_highscore">おめでとう! 最高点! また遊びますか?</string>
+    <string name="gv_lowscore">幸運を! (最高点: </string>
+    <string name="gv_playagain">リプレイしますか?</string>
+    <string name="gv_yes">はい</string>
+    <string name="gv_no">いいえ</string>
+    <string name="gv_sign">:</string>
+    <string name="gv_sign2">)</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

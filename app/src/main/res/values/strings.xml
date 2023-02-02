@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">BW Prefs 2022</string>
+    <string name="title_activity_prefs">PrefsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <string name="music_pref">Play background music</string>
+    <string name="music_summaryoff">Music will not play</string>
+    <string name="music_summaryon">Music will play</string>
+
+    <string name="se_pref">Sound Effects On/Off</string>
+    <string name="se_summaryoff">SoundEffects will not play</string>
+    <string name="se_summaryon">SoundEffects will play</string>
+
+    <string name="urf_ms">Rapid Missile</string>
+    <string name="urf_mson">Will shoot ultimately</string>
+    <string name="urf_msoff">Will shout only one</string>
+
+    <string name="urf_dc">Rapid Depth Charge</string>
+    <string name="urf_dcon">Will shoot ultimately</string>
+    <string name="urf_dcoff">Will shout only one</string>
+
+    <string name="num_sub">How many submarines?</string>
+    <string name="num_subsummary">Number of submarines on-screen at a time</string>
+
+    <string name="num_air">How many airplanes?</string>
+    <string name="num_airsummary">Number of airplanes on-screen at a time</string>
+
+    <string name="sub_speed">Submarines speed</string>
+    <string name="sub_speedsummary">How fast do submarines move?</string>
+
+    <string name="air_speed">Airplanes speed</string>
+    <string name="air_speedsummary">How fast do Airplanes move?</string>
+
+
+    <!-- Splash Activity -->
+    <string name="sa_title">BATTLESHIP WAR</string>
+    <string name="sa_message">This is Battleship War game. Have Fun!</string>
+    <string name="sa_ok">OK</string>
+
+    <!-- Game View -->
+    <string name="gv_score">Score: </string>
+    <string name="gv_time">Time: </string>
+    <string name="gv_gameover">GAME OVER!</string>
+    <string name="gv_highscore">Congratulations! A new high score! Do you want to play again?</string>
+    <string name="gv_lowscore">Better luck next time! (Score to beat: </string>
+    <string name="gv_playagain">Do you want to play again?</string>
+    <string name="gv_yes">Yes</string>
+    <string name="gv_no">No</string>
+    <string name="gv_sign">:</string>
+    <string name="gv_sign2">)</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
